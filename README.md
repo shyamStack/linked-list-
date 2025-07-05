@@ -19,4 +19,4 @@ The main function serves as the control center of the program. It initializes th
 
 Overall, this program is a concise and effective demonstration of singly linked list operations in C. It emphasizes dynamic memory usage, pointer manipulation, and modular function design. The clear structure and interactive interface make it an excellent example for students and developers looking to understand the inner workings of linked lists and how to implement them in a real-world context.
 # OUTPUT :-
-
+<img width="1918" height="1022" alt="Image" src="https://github.com/user-attachments/assets/b31be671-72ce-41bb-8a7c-4cac0998c897" />
